@@ -1,0 +1,6 @@
+name: location
+version: '${version}'
+main: kristopher.location.Location
+api-version: 1.20
+depend:
+  - PlaceholderAPI
